@@ -1,0 +1,8 @@
+| Sprint Backlog |
+
+1 - Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário. 
+
+3 - Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha navegação no portal. 
+
+
+As histórias de ID 1 e 3 serãos as implementadas durante a Sprint. Deve-se alterar as funcionalidades da página de acordo com as necessidades do cliente e então armazená-las no repositorio do GitHub a cada mudança. Entretanto, é quase fato que tais itens necessitem dos itens de ID 2 e 4 para completo funcionamento, tais que não serão desenvolvidos durante essa Sprint.
